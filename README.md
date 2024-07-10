@@ -1,5 +1,5 @@
 # Harvestify
-ML models | UI &amp; UX design
+ML models | UI &amp; UX design 
 
 ![image](https://github.com/RakshanaS1707/Harvestify/assets/117162224/2093a50c-aca1-44de-a0b7-47893a30853e)
 ![image](https://github.com/RakshanaS1707/Harvestify/assets/117162224/5fbc6950-24ee-47ee-a22e-64084999c296)
